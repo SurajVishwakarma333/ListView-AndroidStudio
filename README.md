@@ -57,7 +57,8 @@ after clicking on mumbai it shows Toast message.
               android:id="@+id/simpleListView"
               android:layout_width="fill_parent"
               android:layout_height="wrap_content"
-              android:listSelector="#0f0"/> <!--list selector in green color-->
+              android:listSelector="#0f0" <!--list selector in green color-->
+              />
 
 
 
