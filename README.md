@@ -1,4 +1,4 @@
-# ListView-Android-Studio
+# ListView 
 In this project i covered ListView topic.
 
 Refer this for study purpose.(ListView is outdated instead of ListView use RecyclerView which is more updated and latest)
