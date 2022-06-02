@@ -20,7 +20,7 @@ after clicking on mumbai it shows Toast message.
 
 
 
-Attributes of ListView:
+# Attributes of ListView:
 
 1. divider: This is a drawable or color to draw between different list items.
    Below is the id attribute’s example code with explanation included.
